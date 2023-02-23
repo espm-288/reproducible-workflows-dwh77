@@ -32,3 +32,14 @@ library(tidyverse)
 
 mtcars |> ggplot(aes(cyl, mpg)) + geom_point()
 ```
+
+
+```{r}
+#usethis::use_github_action("render-rmarkdown.yaml") #had to run this once to get function
+
+
+
+```
+
+
+
